@@ -1,0 +1,7 @@
+{
+    "require": {
+        "microsoft/azure-storage-blob": "^1.5",
+        "callr/sdk-php": "^0.11.1",
+        "microsoft/azure-storage-common": "^1.5"
+    }
+}
